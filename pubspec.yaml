@@ -1,0 +1,30 @@
+name: flutter_application_login_page
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - lib/assets/images/teknologi_masa_depan.jpg
+    - lib/assets/images/teknologi_ai.jpg
+    - lib/assets/images/para_ilmuan.jpg
+    - lib/assets/images/startup_lokal.jpg
+    - lib/assets/images/tips_sehat.jpg
+    - lib/assets/images/pameran_seni.jpg
